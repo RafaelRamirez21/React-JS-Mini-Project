@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Food Shopping",
+      "day": "Feb 5th at 2:30 pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Homework",
+      "day": "Feb 5th at 2:30 pm",
+      "reminder": false
+    },
+    {
+      "text": "gym",
+      "day": "27-07-2021",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Task",
+      "day": "sunday",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "add",
+      "day": "work",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}

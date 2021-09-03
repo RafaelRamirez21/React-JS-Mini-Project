@@ -1,0 +1,1 @@
+Pre-configured and Ready to use React Starter App. To save time in settings things up for new project
