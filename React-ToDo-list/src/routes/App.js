@@ -5,8 +5,7 @@ import { TodoCounter } from '../components/TodoCounter';
 import { TodoForm } from '../components/TodoForm';
 import TodoList from '../components/TodoList';
 import { TodoSearch } from '../components/TodoSearch';
-import { TodoContext, TodoProvider } from '../TodoContext';
-import { useLocalStorage } from '../TodoContext/useLocalStorage';
+import { TodoProvider } from '../TodoContext';
 import './../styles/App.scss'
 
 
